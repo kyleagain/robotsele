@@ -1,0 +1,7 @@
+*.png
+venv
+*.html
+*.xml
+*.iml
+__pycache__
+.idea
